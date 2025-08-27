@@ -15,7 +15,7 @@
 🔧  Работаю в Miro, Figma, Draw.io, Notion, Google Docs  
 📈  Знакома с SQL и REST API  
 📬  Готова выполнить тестовое задание и пройти собеседование  
-📱  Telegram: @sviristas  
+📱  Telegram: @sviristas
 
 
 ## 📂 Проекты
